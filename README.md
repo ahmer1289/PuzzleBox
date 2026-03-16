@@ -25,29 +25,6 @@
 
 ---
 
-## Project Structure
-
-
-PuzzleBox/
-├─ Assets/
-│ ├─ Materials/
-│ ├─ MyAnimations/
-│ ├─ Pokemons/
-│ ├─ ProBuilder Data/
-│ ├─ Scenes/
-│ ├─ Scripts/
-│ ├─ Settings/
-│ ├─ TextMesh Pro/
-│ ├─ Texture Bricks 'n Blocks/
-│ └─ TutorialInfo/
-├─ Packages/
-├─ ProjectSettings/
-├─ .gitignore
-├─ .vsconfig
-└─ README.md
-
----
-
 ## Features
 
 - Fully built interactive rooms  
