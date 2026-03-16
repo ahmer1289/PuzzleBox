@@ -2,18 +2,6 @@
 
 **PuzzleBox** is an immersive escape-room style game where players solve riddles, interact with objects, and unlock secrets to escape fully designed rooms. Each room is packed with challenging puzzles, interactive mechanisms, and door systems that test your logic, observation, and problem-solving skills.  
 
-![Gameplay Screenshot](images/puzzlebox-screenshot.png)
-
----
-
-## Table of Contents
-
-- [Gameplay](#gameplay)  
-- [Features](#features)  
-- [Installation](#installation)  
-- [Project Structure](#project-structure)  
-- [License](#license)  
-
 ---
 
 ## Gameplay
